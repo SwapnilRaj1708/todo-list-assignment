@@ -1,0 +1,49 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "title": "Learn React",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Learn Redux",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Learn Express",
+      "completed": false
+    },
+    {
+      "id": "9d29",
+      "title": "Learn HTML",
+      "completed": true
+    },
+    {
+      "id": "c1e5",
+      "title": "Learn CSS",
+      "completed": true
+    },
+    {
+      "id": "3bf3",
+      "title": "Play Games",
+      "completed": false
+    },
+    {
+      "id": "5301",
+      "title": "Pay Electricity Bill",
+      "completed": false
+    },
+    {
+      "id": "28b1",
+      "title": "Buy Groceries",
+      "completed": true
+    },
+    {
+      "id": "c1a9",
+      "title": "Order Napkins",
+      "completed": true
+    }
+  ]
+}
